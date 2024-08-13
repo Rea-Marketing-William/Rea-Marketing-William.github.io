@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Home maintenance<br />Over 15 years Experience
-    text: WILLIAM REA & ASSOCIATES
+    text: William Rea Associates
     button: Tell Me More
     buttonlink: "#services"
 
