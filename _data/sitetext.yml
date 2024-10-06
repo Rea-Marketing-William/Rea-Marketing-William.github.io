@@ -78,7 +78,7 @@ I take immense pride in seeing each project through from inception to completion
 Let me bring your vision to life with my comprehensive range of services."
     section: about
 
-  clients:
+#  clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
