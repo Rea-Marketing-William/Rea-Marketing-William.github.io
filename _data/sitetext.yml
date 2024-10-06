@@ -18,7 +18,12 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Decorating - Furniture Assembly - Hanging - TV Mounting - Jet washing - Carpentry - Tiling - Plastering - Plumbing - Electrics - Kitchen and Bathroom Fitting - Flooring - Landscaping & Gardening - Decking & Patios"
+    text: "Decorating - Furniture Assembly - Hanging<br><br>
+TV Mounting - Jet washing - Carpentry - Tiling<br><br>
+Plastering - Plumbing - Electrics<br><br>
+Kitchen and Bathroom Fitting - Flooring<br><br>
+Landscaping & Gardening - Decking & Patios
+"
     section: services
    # list:
    #   - title: "E-Commerce"
