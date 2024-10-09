@@ -109,7 +109,7 @@ Let me bring your vision to life with my comprehensive range of services."
     people:
       - name: "Person 1"
         role: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-        image: assets/img/team/500x500.jpg
+        image: assets/img/person1.png
         social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
@@ -119,7 +119,7 @@ Let me bring your vision to life with my comprehensive range of services."
 #            icon: fab fa-linkedin-in
       - name: "Person 2"
         role: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-        image: assets/img/team/2.jpg
+        image: assets/img/person1.png
         social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
@@ -129,7 +129,7 @@ Let me bring your vision to life with my comprehensive range of services."
 #            icon: fab fa-linkedin-in
       - name: "Person 3"
         role: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-        image: assets/img/team/500x500.jpg
+        image: assets/img/person1.png
         social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
