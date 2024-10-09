@@ -102,7 +102,7 @@ Let me bring your vision to life with my comprehensive range of services."
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "TESTIFONIALS"
+    title: "TESTIMONIALS"
     #text: "Lorem ipsum dolor sit amet consectetur."
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
@@ -110,7 +110,7 @@ Let me bring your vision to life with my comprehensive range of services."
       - name: "Person 1"
         role: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
         image: assets/img/team/500x500.jpg
-        #social:
+        social:
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
@@ -120,7 +120,7 @@ Let me bring your vision to life with my comprehensive range of services."
       - name: "Person 2"
         role: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
         image: assets/img/team/2.jpg
-        #social:
+        social:
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
@@ -130,7 +130,7 @@ Let me bring your vision to life with my comprehensive range of services."
       - name: "Person 3"
         role: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
         image: assets/img/team/500x500.jpg
-        #social:
+        social:
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
