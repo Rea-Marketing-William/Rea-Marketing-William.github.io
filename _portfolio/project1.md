@@ -1,19 +1,19 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Built-in cupboard
+subtitle: Adjustable shelves, condiment shelves, fitted
 image: assets/img/portfolio/Built-in cupboard - adjustable shelves, condiment shelves, painted.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Built-in cupboard
+  subtitle: Adjustable shelves, condiment shelves, fitted
   thumbnail: assets/img/portfolio/Built-in cupboard - adjustable shelves, condiment shelves, painted.jpg
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+#Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+#- Date: January 2017
+#- Client: Threads
+#- Category: Illustration
