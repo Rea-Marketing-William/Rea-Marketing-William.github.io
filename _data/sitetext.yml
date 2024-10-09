@@ -139,8 +139,8 @@ Let me bring your vision to life with my comprehensive range of services."
 #            icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact Me"
+#    text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
