@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Home maintenance<br />Over 15 years Experience
     text: William Rea Associates
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#about"
 
   services:
     title: "Services"
